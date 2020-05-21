@@ -1,0 +1,21 @@
+body{
+	color: red;
+	background-repeat: no-repeat;
+	background-image: url("heist.jpg");
+	background-size: cover;
+	font-size: 20px;
+}
+h1{text-align: center;
+border: 5px solid red;}
+ul{
+	text-align: center;
+}
+table,td{
+	text-align: center;
+	border: 5px dotted white;
+
+}
+td{
+	padding: 50px;
+	
+}
