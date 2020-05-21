@@ -1,0 +1,18 @@
+body{background-color: blue}
+h1{
+	color:red;
+	text-align: right;
+	border:5px solid silver;
+	bor
+	background-color: green;
+}
+p{
+	color: white;
+	text-align: left;
+}
+
+
+}
+ul{
+	list-style-type: square; 
+}
