@@ -1,0 +1,67 @@
+/*div{
+	color: blue;
+}*/
+
+.Sam{
+	color: pink;
+}
+
+#tony{
+	color: red;
+}
+
+*{
+	text-align: center;
+}
+h1,h2,h3,h4{
+	font-size: 50px;
+	color: rgb(0, 255, 255);
+}
+body{
+	background-color: 	#800000
+}
+/*helloii*/
+h1{
+	border: 5px solid cyan;
+	margin-top: 20px;
+	margin-left:50px;
+	margin-right: 70px;
+}
+h2{
+	border: 10px solid indigo;
+	margin: 20px 50px 70px 90px;
+}
+h1{
+	text-decoration: overline;
+}
+h2{
+	text-decoration: underline;
+}
+h3{
+	text-decoration: line-through;
+	text-transform: uppercase;
+}
+h4{
+	text-transform: lowercase;
+}
+p{
+	text-indent: 70px; 
+}
+h1,h2,h3,h4{
+	text-shadow: 10px 10px 5px yellow;
+}
+a:hover{
+	background-color: cyan;
+	color: gray;
+}
+
+a:link{
+	color: red;
+	text-decoration: none;
+}
+a{
+	border: 1px solid red;
+	padding: 10px;
+	background-color: red;
+	font-size: 40px;
+}
