@@ -1,0 +1,68 @@
+body{
+	background-color: black;
+}
+h1{
+	font-family: 'Merriweather', serif;
+	font-size: 80px;
+	color: red;
+	text-decoration: underline;
+}
+h2{
+	font-family: 'Merriweather', serif;
+	font-size: 60px;
+	color: red;
+	text-decoration: underline;
+}
+p{
+	color: orange;
+	font-size: 20px;
+}
+.cast{
+	color: white
+}
+table
+{
+	text-align: center;
+	color: orange;
+}
+ul
+{
+	font-family: 'Bebas Neue', cursive;
+font-family: 'Merriweather', serif;
+
+	color: orange;
+	font-size: 40px;
+}
+td{
+	padding: 15px;
+	border: 5px solid red;
+	text-align: center;
+}
+form
+{
+	font-size: 20px;
+	padding: 20px;
+	color: orange;
+}
+button{
+	border: 10px solid red;
+	background-color: red;
+}
+button:hover{
+	color: white;
+}
+link{
+	color: red;
+}
+link:hover{
+	color: orange;
+}
+a{
+	color: red;
+}
+a:hover{
+	color: orange;
+}
+a:visited{
+	color: yellow;
+}
