@@ -1,0 +1,13 @@
+body{
+	background-color: black;
+}
+h1{
+	font-family: 'Merriweather', serif;
+	color: red;
+	font-size: 80px;
+	text-decoration: underline;
+}
+p{
+	color: orange;
+	font-size: 40px;
+}
